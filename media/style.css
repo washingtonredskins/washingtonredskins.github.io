@@ -1,0 +1,15 @@
+figure {
+    border: 1px dashed black;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+figure audio {
+    border: 2px solid red;
+    width: 90%;
+}
+figure figcaption {
+    border: 2px solid rebeccapurple;
+    background-color: rebeccapurple;
+    color: whitesmoke;
+}
